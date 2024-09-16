@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d71de60393e0da507f0af5f08bba1052" sys_domain="global" table="x_984902_request_l_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-14 17:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df1de60393e0da507f0af5f08bba1056</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_984902_request_l_loaner_request" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">d71de60393e0da507f0af5f08bba1052</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">b63f827a932c5a507f0af5f08bba1034</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-14 17:28:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-14 17:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f1de60393e0da507f0af5f08bba1057</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_984902_request_l_loaner_request" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">d71de60393e0da507f0af5f08bba1052</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">571da60393e0da507f0af5f08bba10ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-14 17:28:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-14 19:22:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e5783439364da507f0af5f08bba1037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_984902_request_l_loaner_request" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">d71de60393e0da507f0af5f08bba1052</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_984902_request_l_loaner_request" sys_domain="global" view="Default view">2a5783439364da507f0af5f08bba1034</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-14 19:22:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_984902_request_l_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-14 17:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d71de60393e0da507f0af5f08bba1052</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_984902_request_l_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Request Loaner" source="x_984902_request_l">a68fd47293245a507f0af5f08bba1096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Request Loaner">a68fd47293245a507f0af5f08bba1096</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d71de60393e0da507f0af5f08bba1052</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-14 17:28:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
